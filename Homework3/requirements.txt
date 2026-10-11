@@ -1,0 +1,7 @@
+Homework 3 (Q1 + Q2)
+
+numpy:1.24
+pandas:2.0
+scikit-learn:1.3
+
+
