@@ -1,0 +1,13 @@
+
+
+Homework 4 Q2 time series classification, Q3, Q4
+
+
+numpy 1.24
+pandas 2.0
+scikit-learn 1.3
+scipy 1.10
+statsmodels 0.14
+matplotlib 3.7
+
+
